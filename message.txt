@@ -1,0 +1,1 @@
+a commitod a new.txt file-ról átjött, de a fájlt nem látom
